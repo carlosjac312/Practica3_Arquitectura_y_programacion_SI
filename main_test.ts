@@ -1,6 +1,6 @@
 import { assertEquals } from "https://deno.land/std@0.203.0/assert/mod.ts";
 import { add } from "./main.ts";
-
+//PRACTICA 1
 Deno.test(function addTest() {
   //Space speed APARTADO 1
   type pasajero = {
