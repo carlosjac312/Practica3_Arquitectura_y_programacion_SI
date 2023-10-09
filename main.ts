@@ -1,5 +1,5 @@
 import { reset } from "https://deno.land/std@0.203.0/fmt/colors.ts";
-
+//PRACTICA 2
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
     type jugador = {//CREACIÓN DEL OBJETO JUGADOR
